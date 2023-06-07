@@ -1,0 +1,3 @@
+[submodule "indeed_scraping_nlp_project"]
+	path = indeed_scraping_nlp_project
+	url = ./indeed_scraping_nlp_project
