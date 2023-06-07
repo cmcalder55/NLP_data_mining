@@ -1,0 +1,831 @@
+skill_name,cluster_id,cluster_representative
+ability to working with groups of people,0,people skills
+people skills,0,people skills
+ability to work effectively with people,0,people skills
+people oriented,0,people skills
+ability to work with people,0,people skills
+ability to work with others,0,people skills
+commitment to the wellbeing of children,1,ability to work with children
+willingness to work with youth,1,ability to work with children
+ability to work with children,1,ability to work with children
+ability to motivate people,2,motivating
+ability to motivate others,2,motivating
+motivating,2,motivating
+ability to motivate,2,motivating
+ability to present proposals,3,proposal writing
+proposal writing,3,proposal writing
+proposal writing skills,3,proposal writing
+willing to obtain new skills,4,willingness to obtain new knowledge
+willingness to obtain new knowledge,4,willingness to obtain new knowledge
+willingness to obtain new skills,4,willingness to obtain new knowledge
+ability to apply the gained knowledge,4,willingness to obtain new knowledge
+ability to lead and supervise,5,leadership
+leadership ability,5,leadership
+leadership skills,5,leadership
+supervisory skills,5,leadership
+ability to direct the work,5,leadership
+skills to lead effective staff,5,leadership
+ability to lead people,5,leadership
+leadership,5,leadership
+supervision skills,5,leadership
+solution oriented,6,results driven
+goal oriented,6,results driven
+results driven,6,results driven
+results oriented,6,results driven
+results orientation,6,results driven
+action oriented,6,results driven
+goaloriented,6,results driven
+goals oriented,6,results driven
+result oriented,6,results driven
+ability for results orientation,6,results driven
+open to change,7,open minded
+open minded,7,open minded
+openness for new experience,7,open minded
+open to new ideas,7,open minded
+openminded,7,open minded
+logical abilities,8,logical abilities
+flexibility to perform other duties,9,willing to perform other duties
+willing to perform other duties,9,willing to perform other duties
+flexibility with working hours when necessary,10,flexible with hours
+flexible with hours,10,flexible with hours
+able to adapt to flexible timelines,10,flexible with hours
+willingness to work flexible hours,10,flexible with hours
+willingness to be flexible with hours,10,flexible with hours
+ability to adapt to flexible timelines,10,flexible with hours
+flexible with work hours,10,flexible with hours
+ability to work in a flexible schedule,10,flexible with hours
+versatility,11,flexible
+flexible,11,flexible
+ability to be flexible,11,flexible
+flexibility,11,flexible
+work in pressure,12,ability to work under the pressure
+willingness to work under pressure,12,ability to work under the pressure
+willing to work under time pressure,12,ability to work under the pressure
+flexibility to work under pressure,12,ability to work under the pressure
+ability to function in a pressured work environment,12,ability to work under the pressure
+ability to work under the pressure,12,ability to work under the pressure
+capacity to work under pressure,12,ability to work under the pressure
+efficient when under pressure,12,ability to work under the pressure
+work under pressure,12,ability to work under the pressure
+dedication to work hard under pressure,12,ability to work under the pressure
+ability to work under pressure,12,ability to work under the pressure
+ability to work under time pressure,12,ability to work under the pressure
+able to work under pressure,12,ability to work under the pressure
+ability to deliver under pressure,12,ability to work under the pressure
+ability to cope with stress,13,ability to work in stressful situations
+ability to work under stress,13,ability to work in stressful situations
+work under stress,13,ability to work in stressful situations
+ability to work in stressful situations,13,ability to work in stressful situations
+ability to work in a stressful environment,13,ability to work in stressful situations
+hard working,14,hard working
+hard worker,14,hard working
+willing to work hard,14,hard working
+able to work hard,14,hard working
+hard working person,14,hard working
+hardworking,14,hard working
+hardworker,14,hard working
+ability to follow directions,15,ability to follow directions
+ability to understand directions,15,ability to follow directions
+able to understand detailed instructions,15,ability to follow directions
+quick learning skills,16,learn quickly
+quick learning,16,learn quickly
+able to understand tasks quickly,16,learn quickly
+quick learner,16,learn quickly
+ability to learn quickly,16,learn quickly
+quick to learn,16,learn quickly
+quickly learn new technologies,16,learn quickly
+ability to learn fast,16,learn quickly
+learn quickly,16,learn quickly
+quick to learn new technologies,16,learn quickly
+eager to learn,17,willingness to learn
+enthusiastic to learn,17,willingness to learn
+ability to learn,17,willingness to learn
+learning skills,17,willingness to learn
+ability to learn easily,17,willingness to learn
+desire to learn,17,willingness to learn
+desire to learn new things,17,willingness to learn
+willing to learn new skills,17,willingness to learn
+ability to learn authoring technologies,17,willingness to learn
+willing to learn,17,willingness to learn
+willingness to learn,17,willingness to learn
+interest to learn,17,willingness to learn
+ability to prevent problems,18,ability to anticipate problems
+ability to anticipate problems,18,ability to anticipate problems
+ability to anticipate and prevent problems,18,ability to anticipate problems
+ability to identify problems,19,ability to identify problems
+skill to describe problems,19,ability to identify problems
+ability to articulate problems,19,ability to identify problems
+ability to grasp a problem,19,ability to identify problems
+ability to clearly articulate problems,19,ability to identify problems
+ability to concisely articulate problems,19,ability to identify problems
+ability to get fun solving technical problems,20,ability to get fun solving technical problems
+ability to propose alternatives to problem solving,20,ability to get fun solving technical problems
+ability to demonstrate creativity to problem solving,20,ability to get fun solving technical problems
+problem solving orientation,21,problem solving
+problemsolving skills,21,problem solving
+problem solving abilities,21,problem solving
+problem solving skills,21,problem solving
+propose alternatives to problem solving,21,problem solving
+problem solver,21,problem solving
+ability to troubleshoot problems,21,problem solving
+problemsolving attitude,21,problem solving
+ability to problem solve independently,21,problem solving
+ability to resolve difficult problems,21,problem solving
+ability to resolve problems,21,problem solving
+independent in problems solving,21,problem solving
+problem solving,21,problem solving
+problemsolving,21,problem solving
+facilitating skills,22,facilitation skills
+facilitation skills,22,facilitation skills
+sensitivity to gender equity,23,respect for diversity
+respect for diversity,23,respect for diversity
+commitment to gender equity,23,respect for diversity
+commitment to work,24,commitment to work
+personal commitment,24,commitment to work
+courteous,25,courteous
+courteous manner,25,courteous
+ability to speak politely,26,polite
+polite manners,26,polite
+polite,26,polite
+work within a team,27,team player
+commitment to teamwork,27,team player
+team working skills,27,team player
+team oriented,27,team player
+ability to work as part of a team on multiple tasks,27,team player
+a team oriented mentality,27,team player
+interact with the team,27,team player
+team based management style,27,team player
+ability to work with multidisciplinary team,27,team player
+ability to function as part of a team,27,team player
+commitment to team approaches,27,team player
+ability to work in international teams,27,team player
+ability to motivate others in a team environment,27,team player
+ability to work effectively with a diverse team,27,team player
+ability to be part of a multicultural team,27,team player
+able to work in a team,27,team player
+ability to work as a member of a team,27,team player
+team commitment,27,team player
+capable of working as part of a team,27,team player
+team interaction skills,27,team player
+team work skills,27,team player
+ability to work in team work based environment,27,team player
+teamworker,27,team player
+team worker,27,team player
+ability to be a member of a team,27,team player
+ability to work as a part of a team,27,team player
+team work approach,27,team player
+working in a team,27,team player
+capable of working as a part of a team,27,team player
+team working ability,27,team player
+team player,27,team player
+ability to work as a team member,27,team player
+teamwork approach,27,team player
+ability to work as a part a team,27,team player
+ability to work in a group,27,team player
+ability to contribute to project teams,27,team player
+ability to work in teamwork based environment,27,team player
+team working abilities,27,team player
+work in team,27,team player
+ability to work in multidisciplinary teams,27,team player
+ability to work in a team,27,team player
+ability to work in team,27,team player
+able to work as part of a team,27,team player
+ability to work in a team while being selfdirected,27,team player
+teamwork,27,team player
+team spirit,27,team player
+ability to be part of a big team,27,team player
+ability to work cooperatively as part of a team,27,team player
+ability to work in teamworkbased environment,27,team player
+ability to work as a part of team,27,team player
+ability to work in a team environment,27,team player
+team work ability,27,team player
+ability to work as part of a team,27,team player
+ability to work as a team,27,team player
+teamwork skills,27,team player
+service minded approach to work,28,service mentality
+service mentality,28,service mentality
+serviceminded approach to work,28,service mentality
+ability to manage tasks independently,29,ability to manage tasks independently
+ability to work on many tasks at the same time without supervision,29,ability to manage tasks independently
+ability to execute complicated tasks with minimal supervision,29,ability to manage tasks independently
+ability for multitasking under tight deadlines,30,ability to manage multiple tasks under tight deadlines
+ability to manage multiple tasks under tight deadlines,30,ability to manage multiple tasks under tight deadlines
+ability to handle multiple tasks under tight deadlines,30,ability to manage multiple tasks under tight deadlines
+ability to handle simultaneous multiple projects,31,able to multitask
+ability to perform multiple tasks at the same time,31,able to multitask
+ability to multi task,31,able to multitask
+willing to complete the given tasks,31,able to multitask
+ability to complete multiple tasks,31,able to multitask
+ability to handle a variety of tasks,31,able to multitask
+ability to work on multiple tasks,31,able to multitask
+ability to work independently on multiple tasks,31,able to multitask
+multitasking skills,31,able to multitask
+ability to carry out numerous tasks,31,able to multitask
+ability to handle multiple tasks,31,able to multitask
+multitask oriented,31,able to multitask
+ability to perform several activities at the same time,31,able to multitask
+skills in managing tasks,31,able to multitask
+manage multiple tasks,31,able to multitask
+ability to juggle multiple projects simultaneously,31,able to multitask
+undertake multiple tasks at the same time,31,able to multitask
+ability to focus on multiple tasks,31,able to multitask
+ability to handle multiple tasks simultaneously,31,able to multitask
+ability to complete assigned tasks,31,able to multitask
+ability to undertake multiple tasks,31,able to multitask
+able to multitask,31,able to multitask
+ability to complete challenging tasks,31,able to multitask
+flexibility to handle a variety of tasks and shift priorities simultaneously,31,able to multitask
+flexibility to handle a variety of tasks simultaneously,31,able to multitask
+ability to perform multiple tasks,31,able to multitask
+ability to independently manage multiple projects at once,31,able to multitask
+ability to complete multiple challenging tasks,31,able to multitask
+flexibility to handle a variety of tasks,31,able to multitask
+managing tasks,31,able to multitask
+ability to manage multiple tasks,31,able to multitask
+ability to prioritise workload activities,32,ability to prioritise tasks
+ability to set priorities,32,ability to prioritise tasks
+ability to prioritize competing tasks even under pressure,32,ability to prioritise tasks
+able to prioritize,32,ability to prioritise tasks
+ability to prioritize tasks,32,ability to prioritise tasks
+ability to prioritize workload,32,ability to prioritise tasks
+ability to prioritize,32,ability to prioritise tasks
+ability to prioritize work,32,ability to prioritise tasks
+ability to prioritize multiple projects,32,ability to prioritise tasks
+ability to prioritise tasks,32,ability to prioritise tasks
+prioritization skills,32,ability to prioritise tasks
+public relations skills,33,ability to develop relations
+ability to develop relations,33,ability to develop relations
+human relations capacity,33,ability to develop relations
+ability to nurture relations,33,ability to develop relations
+properly maintain relations with customers,33,ability to develop relations
+adjust to demanding work,34,adjust to demanding work
+ability to interpret,35,ability to interpret
+interpretation skills,35,ability to interpret
+ability to work overtime,36,willingness to work overtime
+willingness to work extended hours and weekends,36,willingness to work overtime
+work irregular hours,36,willingness to work overtime
+able to include shift work,36,willingness to work overtime
+capacity to work for long hours,36,willingness to work overtime
+willingness to adjust to demanding work schedule,36,willingness to work overtime
+willingness to work long hours when required,36,willingness to work overtime
+willing to work irregular hours,36,willingness to work overtime
+able to work unusual work hours,36,willingness to work overtime
+willing to work overtime,36,willingness to work overtime
+willingness to work long hours,36,willingness to work overtime
+ability for long working hours,36,willingness to work overtime
+willingness to work long or unusual hours,36,willingness to work overtime
+willingness to work overtime,36,willingness to work overtime
+organisational skills,37,organisational skills
+ability to organize the work,37,organisational skills
+ability to plan and organize work for others,37,organisational skills
+organizing skills,37,organisational skills
+organizational capabilities,37,organisational skills
+organization skills,37,organisational skills
+organizational skills,37,organisational skills
+ability to organize work,37,organisational skills
+ability to organize tasks,37,organisational skills
+organising skills,37,organisational skills
+ability to organize,37,organisational skills
+organizer,37,organisational skills
+negotiation skills,38,negotiation skills
+ability to negotiate,38,negotiation skills
+skilled negotiator,38,negotiation skills
+negotiator,38,negotiation skills
+ability to respond to rapidly changing situations,39,ability to respond to rapidly changing situations
+ability to promptly respond to rapidly changing situations,39,ability to respond to rapidly changing situations
+ability to set goals,40,ability to achieve goals
+ability to meet goals,40,ability to achieve goals
+achieving goals,40,ability to achieve goals
+demonstrating a sense of urgency to achieve goals,40,ability to achieve goals
+ability to demonstrate a sense of urgency to achieve goals,40,ability to achieve goals
+ability to achieve results,40,ability to achieve goals
+ability to achieve goals,40,ability to achieve goals
+ability to set and meet goals,40,ability to achieve goals
+ability to carry out a task in time,41,ability to work within deadlines
+ability to complete assigned tasks according to deadlines,41,ability to work within deadlines
+ability to carry out task in time,41,ability to work within deadlines
+ability to perform under deadlines,41,ability to work within deadlines
+ability to handle multiple tasks while adhering to deadlines,41,ability to work within deadlines
+ability to work and meet deadlines,41,ability to work within deadlines
+ability to adhere to deadlines,41,ability to work within deadlines
+ability to work within deadlines,41,ability to work within deadlines
+ability to work meet deadlines,41,ability to work within deadlines
+meeting deadlines,41,ability to work within deadlines
+ability to complete tasks according to deadlines,41,ability to work within deadlines
+ability to work under strict deadlines,41,ability to work within deadlines
+ability to work within required deadlines,41,ability to work within deadlines
+ability to work within strict deadlines,41,ability to work within deadlines
+ability to work within tight deadlines,41,ability to work within deadlines
+ability to meet terms,41,ability to work within deadlines
+ability to deliever tasks on time,41,ability to work within deadlines
+ability to handle tight deadlines,41,ability to work within deadlines
+ability to complete the tasks to assigned deadlines,41,ability to work within deadlines
+ability to respect deadlines,41,ability to work within deadlines
+plan the work to carry out a task in time,41,ability to work within deadlines
+ability to focus on meet deadlines,41,ability to work within deadlines
+ability to meet deadlines,41,ability to work within deadlines
+deadline oriented,41,ability to work within deadlines
+commitment to meeting deadlines,41,ability to work within deadlines
+ability to meet a schedule,41,ability to work within deadlines
+ability to complete the tasks in a timely manner,41,ability to work within deadlines
+ability to work under deadlines,41,ability to work within deadlines
+ability to meet tight deadlines,41,ability to work within deadlines
+ability to responsibly complete work according to deadlines,41,ability to work within deadlines
+ability to work according to deadlines,41,ability to work within deadlines
+ability to complete work according to deadlines,41,ability to work within deadlines
+ability to meet deadlines under pressure,41,ability to work within deadlines
+ability to work within short deadline,41,ability to work within deadlines
+ability to balance deadlines,41,ability to work within deadlines
+able to adhere to deadlines,41,ability to work within deadlines
+work in deadline oriented,41,ability to work within deadlines
+commitment to accountability,42,responsible
+responsible personality,42,responsible
+ability to take responsibility,42,responsible
+responsible person,42,responsible
+ability to take responsibilities,42,responsible
+accountability,42,responsible
+responsable,42,responsible
+responsibility,42,responsible
+sense of responsibility,42,responsible
+responsible,42,responsible
+respectful,43,respectful
+respect for colleagues,43,respectful
+willingness to listen and respect colleagues,43,respectful
+respect for colleagues and stakeholders,43,respectful
+customer development skills,44,customer development skills
+customer orientation,45,client skills
+client skills,45,client skills
+client orientation,45,client skills
+customer orientation skills,45,client skills
+customer service ethic,45,client skills
+client oriented,45,client skills
+customer service ethics,45,client skills
+ability to work in a cross cultural environment,46,ability to work in an international environment
+able to work as part of an international team,46,ability to work in an international environment
+ability to manage a multinational staff,46,ability to work in an international environment
+comfortable in working in an international environment,46,ability to work in an international environment
+ability to work with multinational staff,46,ability to work in an international environment
+ability to work with multinational groups,46,ability to work in an international environment
+ability to work and communicate with multinational groups,46,ability to work in an international environment
+intercultural skills,46,ability to work in an international environment
+comfortable in dealing in an international environment,46,ability to work in an international environment
+ability to work in an international environment,46,ability to work in an international environment
+ability to work in a multicultural environment,46,ability to work in an international environment
+ability to work in multicultural environment,46,ability to work in an international environment
+ability to work in a crosscultural environment,46,ability to work in an international environment
+skills to build a team,47,team building skills
+team building skills,47,team building skills
+teambuilding skills,47,team building skills
+team builder,47,team building skills
+capacity building skills,48,capacity building skills
+diplomatic manner,49,diplomatic
+diplomacy skills,49,diplomatic
+ability to communicate with diplomacy,49,diplomatic
+ability to work diplomatically,49,diplomatic
+diplomatic,49,diplomatic
+diplomacy,49,diplomatic
+self organized,50,self organisational skills
+self organisational skills,50,self organisational skills
+ability to lead resultsbased management,51,management skills
+project management,51,management skills
+program management skills,51,management skills
+ability to manage,51,management skills
+managing skills,51,management skills
+management skill,51,management skills
+management skills,51,management skills
+project management skills,51,management skills
+conflict management skills,52,conflict management
+conflict management,52,conflict management
+ability to summarize information,53,ability to collect information
+ability to collect information,53,ability to collect information
+ability to effectively present information,53,ability to collect information
+communication abilities,54,communication skills
+skills to communicate,54,communication skills
+ability to communicate information in a clear and approachable manner,54,communication skills
+communications skills,54,communication skills
+communicating skills,54,communication skills
+ability to communicate effectively,54,communication skills
+ability to communicate with clients,54,communication skills
+communication skill,54,communication skills
+communicator,54,communication skills
+able to easily communicate,54,communication skills
+ability to communicate,54,communication skills
+able to communicate,54,communication skills
+ability to communicate effectively at all levels,54,communication skills
+ability to communicate with people,54,communication skills
+communicative,54,communication skills
+communication skills,54,communication skills
+communicate easily,54,communication skills
+unquestioned principles and behavior,55,unquestioned principles and behavior
+presentation skills,56,presentation skills
+professional presentation,56,presentation skills
+humor,57,humor
+ability to sell,58,sales driven
+sales driven,58,sales driven
+self awareness,59,self awareness
+assertive,60,confident
+self confidence,60,confident
+confident personality,60,confident
+selfconfident,60,confident
+assertiveness,60,confident
+confident,60,confident
+self confident,60,confident
+self driven,61,self driven
+self directed,61,self driven
+motivation,62,motivated
+self motivated,62,motivated
+motivated,62,motivated
+self motivation,62,motivated
+level of motivation,62,motivated
+ability to work being motivated,62,motivated
+ability to interact,63,ability to interact
+ability to interact with individuals and groups,63,ability to interact
+ability to interact with groups,63,ability to interact
+ability to interact with individuals,63,ability to interact
+ability to maintain positive relationships,64,ability to maintain relationships
+ability to establish connections,64,ability to maintain relationships
+ability to develop partnership,64,ability to maintain relationships
+ability to establish positive relationships,64,ability to maintain relationships
+ability to maintain relationships,64,ability to maintain relationships
+ability to manage relationships,64,ability to maintain relationships
+ability to establish working relationships,64,ability to maintain relationships
+ability to build and maintain lasting client relationships,64,ability to maintain relationships
+ability to establish and maintain business relationships,64,ability to maintain relationships
+ability to build partnership,64,ability to maintain relationships
+ability to maintain relationship with partners,64,ability to maintain relationships
+relationship builder,64,ability to maintain relationships
+ability to establish relationship with partners,64,ability to maintain relationships
+skills to manage relationships,64,ability to maintain relationships
+ability to establish connections with new retailers,64,ability to maintain relationships
+ability to establish relationships,64,ability to maintain relationships
+client relationships,64,ability to maintain relationships
+ability to establish relations,64,ability to maintain relationships
+ability to handle multiple priorities,65,ability to handle multiple priorities
+ability to organize and prioritize workload,65,ability to handle multiple priorities
+flexibility to shift priorities simultaneously,65,ability to handle multiple priorities
+ability to shift priorities simultaneously,65,ability to handle multiple priorities
+ability to shift priorities,65,ability to handle multiple priorities
+ability to focus on priorities,65,ability to handle multiple priorities
+ability to balance multiple priorities,65,ability to handle multiple priorities
+diligent,66,diligent
+capable of being a team leader,67,ability to lead project teams
+ability to lead team members,67,ability to lead project teams
+ability to lead project teams,67,ability to lead project teams
+ability to lead a diverse team,67,ability to lead project teams
+ability to motivate team members,67,ability to lead project teams
+ability to lead in a team environment,67,ability to lead project teams
+ability to integrate team members,67,ability to lead project teams
+ability to maintain confidentiality of the information,68,ability to maintain confidentiality
+ability to maintain confidentiality,68,ability to maintain confidentiality
+ability to deal with confidential information,68,ability to maintain confidentiality
+ability to handle confidential issues,68,ability to maintain confidentiality
+ability to handle confidential information,68,ability to maintain confidentiality
+international outlook,69,international outlook
+ability to make sound decisions,70,make decisions
+ability to take direction,70,make decisions
+ability to take decisions independently,70,make decisions
+decision making skills,70,make decisions
+ability to make decisions,70,make decisions
+decision making abilities,70,make decisions
+ability to take appropriate decisions,70,make decisions
+decision maker,70,make decisions
+ability to propose practical solutions,70,make decisions
+ability to appropriately make decisions,70,make decisions
+make decisions,70,make decisions
+makes timely decisions,70,make decisions
+proactive,71,proactive
+proactive approach,71,proactive
+punctuality,72,punctual
+punctual,72,punctual
+professional attitude,73,professional manner
+professional manner,73,professional manner
+professional personality,73,professional manner
+professionalism,73,professional manner
+ability to work in a professional team environment,73,professional manner
+ability to report,74,reporting skills
+correct reporting,74,reporting skills
+reporting skills,74,reporting skills
+ability to correct reporting,74,reporting skills
+coordination skills,75,ability to coordinate
+coordinating skills,75,ability to coordinate
+ability to coordinate,75,ability to coordinate
+initiative person,76,initiative
+initiative thinking,76,initiative
+ability to demonstrate initiative,76,initiative
+initiative,76,initiative
+take initiative,76,initiative
+working using own initiative,76,initiative
+presonal initiative,76,initiative
+ability to take initiative,76,initiative
+initiative driven,76,initiative
+self initiative,76,initiative
+work ethics,77,work ethic
+work ethic,77,work ethic
+sense of ethics,78,sense of ethics
+analytical thinking skills,79,analytical skills
+ability for analytical thinking,79,analytical skills
+analytical abilities,79,analytical skills
+analytical mind,79,analytical skills
+analytical skills,79,analytical skills
+analytic skills,79,analytical skills
+analysis skills,79,analytical skills
+analytical thinking,79,analytical skills
+ability to think analytically,79,analytical skills
+ability to articulate in clear concise understandable terms,80,articulate
+ability to articulate a clear vision,80,articulate
+articulate,80,articulate
+ability to think conceptually,81,conceptual skills
+conceptual skills,81,conceptual skills
+conceptual thinking,81,conceptual skills
+strategic thinking,82,strategic planning
+ability to lead strategic planning,82,strategic planning
+strategic planning,82,strategic planning
+ability to think strategically,82,strategic planning
+ability for strategic thinking,82,strategic planning
+ability to work within time limits,83,ability to work within time frames
+able to work under time tight constraints,83,ability to work within time frames
+ability to work within strict time,83,ability to work within time frames
+ability to work within strict time frames,83,ability to work within time frames
+ability to work within time frames,83,ability to work within time frames
+ability to work within flexible time frames,83,ability to work within time frames
+able to work within strict timelines,83,ability to work within time frames
+ability to work with time limitations,83,ability to work within time frames
+ability to work in timely fashion,83,ability to work within time frames
+ability to work with limited time frame,83,ability to work within time frames
+ability to complete tasks in a timely manner,83,ability to work within time frames
+flexibility to work within strict time frames,83,ability to work within time frames
+ability to keep within time limits,83,ability to work within time frames
+ability to train staff,84,ability to provide training
+skills in training,84,ability to provide training
+ability to provide training,84,ability to provide training
+training skills,84,ability to provide training
+time management,85,time management
+ability to manage time,85,time management
+timemanagement skills,85,time management
+time management skills,85,time management
+manages time effectively,85,time management
+mature personality,86,maturity
+maturity,86,maturity
+active personality,87,active person
+active person,87,active person
+character,88,character
+ability to work independently,89,capability to work independently
+ability to work independently in a fastpaced environment,89,capability to work independently
+ability to work being selfdirected,89,capability to work independently
+independent worker,89,capability to work independently
+ablity to work independently,89,capability to work independently
+able to work independently,89,capability to work independently
+capability to work independently,89,capability to work independently
+ability to function independently,89,capability to work independently
+cultural sensitivity,90,cultural sensitivity
+sensitivity in working with multiple cultures,90,cultural sensitivity
+sensitivity in working with multiple cultures and beliefs,90,cultural sensitivity
+sensitivity,91,sensitivity
+political awareness,92,political awareness
+ability to grow personally within the practice,93,willing to grow in skill
+willing to grow in skill,93,willing to grow in skill
+ability to work calmly,94,calm
+calm,94,calm
+ability to remain calm under pressure,94,calm
+ability to work in multitask environment,95,ability to work in a multitask environment
+ability to work in a multitask environment,95,ability to work in a multitask environment
+ability to operate in a multitasking enviroment,95,ability to work in a multitask environment
+able to persuade through influence,96,influencing skills
+able to persuade,96,influencing skills
+talent for persuading people,96,influencing skills
+influencing skills,96,influencing skills
+ability to persuade,96,influencing skills
+tact,97,discretion
+ability to work tactfully,97,discretion
+tactful,97,discretion
+ability to communicate with tact,97,discretion
+deal tactfully with the public,97,discretion
+tactful manner,97,discretion
+ability to work  in a fastpaced environment,98,ability to work  in a fastpaced environment
+ability to work in a fastpaced environment,98,ability to work  in a fastpaced environment
+ability to integrate immediately into the fast moving environment,98,ability to work  in a fastpaced environment
+capability to adjust to a fast paced environment,98,ability to work  in a fastpaced environment
+positive,99,positive
+positive attitude,99,positive
+ability to plan work,100,planning skills
+ability to plan the work,100,planning skills
+scheduling skills,100,planning skills
+ability to plan,100,planning skills
+planning skills,100,planning skills
+quality minded,101,dedication to quality
+dedication to quality,101,dedication to quality
+ability to work in cooperation,102,work collaboratively
+ability to promote collaboration within the team,102,work collaboratively
+ability to cooperation,102,work collaboratively
+work in close cooperation,102,work collaboratively
+ability to work collaboratively,102,work collaboratively
+ability to work cooperatively,102,work collaboratively
+ability to facilitate a collaborative work environment,102,work collaboratively
+work collaboratively,102,work collaboratively
+cooperation skills,102,work collaboratively
+autonomy,103,autonomy
+ability to work alone,103,autonomy
+ability to work individually,103,autonomy
+ability to work being self directed,103,autonomy
+capable of working individually,103,autonomy
+ability to work in a team while being self directed,103,autonomy
+able to deal with complex issues,104,able to deal with complex issues
+reliable personality,105,reliable
+reliable,105,reliable
+coaching skills,106,coaching
+ability to coach staff,106,coaching
+coaching,106,coaching
+ability to prioritize a workload,107,ability to handle a workload
+ability to organize a workload,107,ability to handle a workload
+ability to handle a workload,107,ability to handle a workload
+ability to organize workload,107,ability to handle a workload
+ability to analyse problems,108,ability to analyse problems
+ability to analyze,108,ability to analyse problems
+ability to analyze problems,108,ability to analyse problems
+ability to work as a self starter,109,self starter
+self starters,109,self starter
+willingness to be a self starter,109,self starter
+self starter,109,self starter
+friendly personality,110,friendly personality
+innovative thinking,111,innovative
+ability to develop innovative approaches,111,innovative
+innovativeness,111,innovative
+innovative,111,innovative
+energetic,112,energetic
+methodical,113,methodical
+monitoring skills,114,monitoring skills
+enthusiastic,115,enthusiastic
+enthusiasm,115,enthusiastic
+enthusiastic personality,115,enthusiastic
+speaking ability,116,verbal skills
+public speaking skills,116,verbal skills
+verbal skills,116,verbal skills
+oral skills,116,verbal skills
+public speaking,116,verbal skills
+speak convincingly in public,116,verbal skills
+ability to win new business,117,ability to win new business
+ambitious personality,118,ambitious
+ambitious,118,ambitious
+personable,119,personable
+creativity,120,creative
+be creative,120,creative
+ability to work creatively,120,creative
+creativity thinking,120,creative
+ability to thin creatively,120,creative
+ability to think creatively,120,creative
+creative thinking,120,creative
+creative,120,creative
+out of the box thinker,120,creative
+creative approach,120,creative
+creative thinking skills,120,creative
+creative imagination,121,imagination
+imagination,121,imagination
+ability to work in a tense situation,122,ability to be flexible in demanding situations
+ability to be flexible in demanding situations,122,ability to be flexible in demanding situations
+ability to intervene in crisis situation,122,ability to be flexible in demanding situations
+reasoning skills,123,reasoning skills
+patience,124,patience
+attractive personality,125,attractive personality
+judgement skills,126,judgment
+judgment skills,126,judgment
+judgment,126,judgment
+ability to exercise judgment,126,judgment
+sound judgment,126,judgment
+accuracy,127,accurate
+accuracy in work,127,accurate
+accurate,127,accurate
+consulting skills,128,consulting skills
+managerial skills,129,managerial skills
+managerial ability,129,managerial skills
+empathy,130,empathy
+sympathy,131,sympathy
+dedicated person,132,dedication
+dedication,132,dedication
+tolerant,133,tolerant
+ability to conceptualize,134,ability to conceptualize
+conceptualization skills,134,ability to conceptualize
+lively personality,135,lively personality
+interpersonal skills,136,interpersonal skills
+ability to foster a spirit of unity,137,ability to maintain a spirit of unity
+ability to foster and maintain a spirit of unity,137,ability to maintain a spirit of unity
+ability to maintain a spirit of unity,137,ability to maintain a spirit of unity
+ability to foster and maintain a spirit of unity teamwork and cooperation,137,ability to maintain a spirit of unity
+social skills,138,social skills
+sociable personality,138,social skills
+willing to travel,139,willing to travel
+ability to travel,139,willing to travel
+willingness to travel,139,willing to travel
+mentoring skills,140,mentoring skills
+disciplined,141,disciplined
+counselling skills,142,counselling skills
+administrative skills,143,administrative skills
+critical thinking,144,critical thinking
+ability to think critically,144,critical thinking
+critical thinking skills,144,critical thinking
+capability to understand requirements and policies,145,capability to understand requirements and policies
+capability to implement requirements and policies,145,capability to understand requirements and policies
+constructive feedback,146,constructive feedback
+ability to advocate for others,147,advocacy skills
+advocacy skills,147,advocacy skills
+discretion,148,discretion
+ingenuity,149,ingenuity
+wellorganized,150,organized
+well organized,150,organized
+organized person,150,organized
+organized,150,organized
+telephone skills,151,telephone skills
+ability to communicate on telephone,151,telephone skills
+listen skills,152,listening skills
+willingness to listen,152,listening skills
+ability to listen to others opinions,152,listening skills
+able to listen to others opinions,152,listening skills
+listening skills,152,listening skills
+ability to listen,152,listening skills
+marketing skills,153,marketing skills
+ability to coordinate marketing,153,marketing skills
+ability to epxress thoughts,154,ability to present ideas
+ability to express ideas clearly and concisely,154,ability to present ideas
+ability to express ideas concisely,154,ability to present ideas
+ability to express thoughts clearly,154,ability to present ideas
+ability to present information in a concise manner,154,ability to present ideas
+ability to exchange ideas,154,ability to present ideas
+ability to express ideas clearly,154,ability to present ideas
+ability to communicate ideas effectively,154,ability to present ideas
+ability to present ideas in a concise manner,154,ability to present ideas
+ability to present ideas in a wellorganized manner,154,ability to present ideas
+ability to present information in a wellorganized manner,154,ability to present ideas
+ability to present ideas,154,ability to present ideas
+adept at networking,155,adept at networking
+personal interest in the environment,156,personal interest in the environment
+attentive,157,attentive
+ability to operate efficiently,158,ability to work efficiently
+ability to work efficiently,158,ability to work efficiently
+ability to make recommendations,159,ability to make recommendations
+educational skills,160,educational skills
+ability to educate others,160,educational skills
+personal integrity,161,personal integrity
+cheerful personality,162,cheerful personality
+dynamic personality,163,dynamic person
+dynamic person,163,dynamic person
+ability to focus on details,164,attention to detail
+detailed oriented,164,attention to detail
+attention to detail,164,attention to detail
+detail oriented,164,attention to detail
+attention to details,164,attention to detail
+attentive to details,164,attention to detail
+ability to adapt to rapidly changing situations,165,ability to adapt
+ability to adapt to dynamic business environment,165,ability to adapt
+ability to work in various settings,165,ability to adapt
+ability to adapt,165,ability to adapt
+systematic manner,166,systematic
+systematic,166,systematic
+ability to respond to immediate staff needs,167,capabilities to identify needs
+capabilities to identify needs,167,capabilities to identify needs
+ability to be affirmative,168,ability to be affirmative
+communication abilities in an international environment,169,cross cultural communication
+cross cultural communication skills,169,cross cultural communication
+cross cultural communication,169,cross cultural communication
+ability to communicate with multinational groups,169,cross cultural communication
+ability to get along with people,170,ability to get along with people
+ability to handle quick turnaround,171,ability to handle quick turnaround
+abstract thinking,172,abstract thinking
+ability to improve skills,173,ability to improve skills
+ability to work with continuous quality improvement,173,ability to improve skills
+delegation skills,174,delegation skills
+memory skills,175,memory skills
+rigorous in the work,176,rigorous in the work
+outgoing,177,outgoing
+outgoing personality,177,outgoing
+selflearner,178,self learning
+self learning,178,self learning
+selflearning,178,self learning
+curious,179,curious
+ability to works with minimal guidance,180,ability to work without supervision
+ability to work unsupervised,180,ability to work without supervision
+ability to work with minimum supervision,180,ability to work without supervision
+ability to work without supervision,180,ability to work without supervision
+ability to work efficiently without supervision,180,ability to work without supervision
+ability to manage ongoing programs,181,ability to manage a team
+ability to coordinate project staff,181,ability to manage a team
+people management skills,181,ability to manage a team
+staff management skills,181,ability to manage a team
+team management,181,ability to manage a team
+ability to manage a team,181,ability to manage a team
+team management skills,181,ability to manage a team
+personal management skills,181,ability to manage a team
+ability to manage people,181,ability to manage a team
+staff management,181,ability to manage a team
+people management,181,ability to manage a team
+personal management,181,ability to manage a team
+ability to organize project teams,181,ability to manage a team
+ability to manage project teams,181,ability to manage a team
+personality skills,182,personality skills
+attendance during normal working hours,183,attendance during normal working hours
+ability of training results assessment,184,ability of training results assessment
+ability of monitoring results assessment,184,ability of training results assessment
+ability to effectively respond to questions,185,ability to respond to questions
+ability to respond to questions,185,ability to respond to questions
+ability to make trade offs,186,ability to make trade offs
+ability to overcome challenges,187,ability to overcome challenges
+forward thinker,188,forward thinker
+able to drive important projects successfully,189,able to drive important projects successfully

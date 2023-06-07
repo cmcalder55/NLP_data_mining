@@ -1,0 +1,143 @@
+Percentage,Technology Skill,In Demand
+32,Oracle Java,Yes
+26,Structured query language SQL,Yes
+24,JavaScript,Yes
+23,Python,Yes
+22,Amazon Web Services AWS software,Yes
+15,C#,Yes
+14,Microsoft Azure software,Yes
+14,Git,Yes
+14,Google Angular,Yes
+12,React,Yes
+12,Cascading style sheets CSS,Yes
+12,Docker,Yes
+11,Linux,Yes
+11,C++,Yes
+11,Kubernetes,Yes
+11,Hypertext markup language HTML,Yes
+10,Jenkins CI,Yes
+9,Node.js,Yes
+7,NoSQL,Yes
+7,Microsoft .NET Framework,Yes
+7,Atlassian JIRA,Yes
+6,Spring Framework,Yes
+6,C,Yes
+6,Extensible markup language XML,Yes
+6,JavaScript Object Notation JSON,Yes
+5,Apache Kafka,Yes
+5,Spring Boot,Yes
+5,TypeScript,Yes
+5,PostgreSQL,Yes
+5,Microsoft SQL Server,Yes
+5,UNIX,Yes
+4,Go,
+4,IBM Terraform,
+4,MongoDB,
+4,jQuery,
+4,GitHub,
+4,Oracle Java 2 Platform Enterprise Edition J2EE,
+4,Ansible software,
+3,Ruby,
+3,Microsoft ASP.NET,
+3,Apple iOS,
+3,Microsoft Excel,
+3,Apache Maven,
+3,Swift,
+3,Microsoft Office software,
+3,Bash,
+3,Apache Spark,
+3,Amazon Simple Storage Service S3,
+2,Microsoft PowerShell,
+2,Vue.js,
+2,Microsoft Visual Studio,
+2,JUnit,
+2,Perl,
+2,Hibernate ORM,
+2,Atlassian Bitbucket,
+2,Scala,
+2,Apache Hadoop,
+2,Tableau,
+2,GitLab,
+2,Bootstrap,
+2,Amazon Elastic Compute Cloud EC2,
+2,Atlassian Confluence,
+2,Splunk Enterprise,
+2,PHP,
+2,Microsoft PowerPoint,
+2,Chef,
+2,Oracle PL/SQL,
+2,Ruby on Rails,
+2,Redis,
+2,Apache Cassandra,
+2,Microsoft Access,
+2,Amazon Web Services AWS CloudFormation,
+2,Amazon DynamoDB,
+2,Elasticsearch,
+2,Apache Subversion SVN,
+2,GraphQL,
+2,Puppet,
+1,Transact-SQL,
+1,Microsoft SharePoint,
+1,Eclipse IDE,
+1,Shell script,
+1,Microsoft Team Foundation Server,
+1,AJAX,
+1,R,
+1,Microsoft SQL Server Integration Services SSIS,
+1,SAP software,
+1,Apache Tomcat,
+1,Selenium,
+1,ServiceNow,
+1,Microsoft SQL Server Reporting Services SSRS,
+1,Google Cloud software,
+1,Objective C,
+1,IBM DB2,
+1,Microsoft Active Directory,
+1,Red Hat OpenShift,
+1,Microsoft Outlook,
+1,Oracle SQL Developer,
+1,Django,
+1,Microsoft Visio,
+1,Apache Hive,
+1,Microsoft Windows Server,
+1,Microsoft Visual Basic,
+1,Oracle JavaServer Pages JSP,
+1,Oracle Database,
+1,Microsoft Active Server Pages ASP,
+1,UNIX Shell,
+1,The MathWorks MATLAB,
+1,Amazon Redshift,
+1,Atlassian Bamboo,
+1,Informatica software,
+0,IBM WebSphere,
+0,Microsoft Word,
+0,Microsoft Windows,
+0,SAS,
+0,Adobe Systems Adobe Photoshop,
+0,Microsoft Teams,
+0,Teradata Database,
+0,Slack,
+0,Apple macOS,
+0,Adobe Systems Adobe Illustrator,
+0,WordPress,
+0,Microsoft Visual Basic for Applications VBA,
+0,Zoom,
+0,ESRI ArcGIS software,
+0,Adobe Systems Adobe Creative Cloud software,
+0,MicroStrategy,
+0,Microsoft Project,
+0,Microsoft Dynamics,
+0,Drupal,
+0,Figma,
+0,Alteryx software,
+0,Qlik Tech QlikView,
+0,Adobe Systems Adobe InDesign,
+0,Cisco Webex,
+0,Trimble SketchUp Pro,
+0,Adobe Systems Adobe After Effects,
+0,IBM SPSS Statistics,
+0,Adobe Systems Adobe Acrobat,
+0,Google Sheets,
+0,Oracle Primavera Enterprise Project Portfolio Management,
+0,LinkedIn,
+0,Google Docs,

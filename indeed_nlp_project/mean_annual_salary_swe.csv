@@ -1,0 +1,58 @@
+﻿Area Name,Annual mean wage
+Alabama(0100000),      102990
+Alaska(0200000),      113800
+Arizona(0400000),      114630
+Arkansas(0500000),       89420
+California(0600000),      146770
+Colorado(0800000),      120140
+Connecticut(0900000),      113530
+Delaware(1000000),      115330
+District of Columbia(1100000),      124770
+Florida(1200000),      105200
+Georgia(1300000),      114740
+Hawaii(1500000),      112410
+Idaho(1600000),       98560
+Illinois(1700000),      109970
+Indiana(1800000),       94920
+Iowa(1900000),      101530
+Kansas(2000000),       99380
+Kentucky(2100000),       97810
+Louisiana(2200000),       93670
+Maine(2300000),      101440
+Maryland(2400000),      131240
+Massachusetts(2500000),      128190
+Michigan(2600000),       97730
+Minnesota(2700000),      111400
+Mississippi(2800000),       85590
+Missouri(2900000),      100290
+Montana(3000000),       92980
+Nebraska(3100000),       98590
+Nevada(3200000),      101850
+New Hampshire(3300000),      116940
+New Jersey(3400000),      124100
+New Mexico(3500000),      107460
+New York(3600000),      129950
+North Carolina(3700000),      117240
+North Dakota(3800000),       83460
+Ohio(3900000),      101870
+Oklahoma(4000000),      100840
+Oregon(4100000),      115160
+Pennsylvania(4200000),      105550
+Puerto Rico(7200000),       58020
+Rhode Island(4400000),      128790
+South Carolina(4500000),      102630
+South Dakota(4600000),       85910
+Tennessee(4700000),       99680
+Texas(4800000),      111830
+Utah(4900000),      109000
+Vermont(5000000),      108720
+Virginia(5100000),      127830
+Washington(5300000),      145150
+West Virginia(5400000),       83450
+Wisconsin(5500000),       96900
+Wyoming(5600000),       85730
+,
+"(2)Annual wages have been calculated by multiplying the corresponding hourly wage by 2,080 hours.",
+,
+SOC code: Standard Occupational Classification code -- see http://www.bls.gov/soc/home.htm,
+"Date extracted on :Apr 20, 2023",
